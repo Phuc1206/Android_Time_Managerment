@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#888</color>
+    <color name="blue">#0000FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorDefaultTaskColor">#333333</color>
+    <color name="colorTaskBackground">#6A6A6A</color>
+    <color name="colorTaskColor2">#FDFAAB</color>
+    <color name="colorTaskColor3">#FFB6B6</color>
+    <color name="colorTaskColor4">#A8D3E6</color>
+    <color name="lavender">#8692f7</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name= "yellow">#FFCD00</color>
+    <color name="green">#90D3CB</color>
+    <color name="xanh1">#C0EEE4</color>
+    <color name="xanh2">#B0E5DC</color>
+    <color name="xanh3">#A0DCD3</color>
+    <color name="xanh4">#90D3CB</color>
+</resources>

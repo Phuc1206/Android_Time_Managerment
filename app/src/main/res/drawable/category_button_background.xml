@@ -1,0 +1,23 @@
+<!-- res/drawable/category_button_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- State when button is pressed -->
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/xanh3" /> <!-- Màu khi nhấn vào -->
+            <stroke
+                android:width="2dp"
+                android:color="#000000" /> <!-- Màu viền đen -->
+            <corners android:radius="8dp" /> <!-- Độ cong của góc, điều chỉnh nếu cần -->
+        </shape>
+    </item>
+    <!-- Default state -->
+    <item>
+        <shape>
+            <solid android:color="@android:color/white" /> <!-- Màu mặc định -->
+            <stroke
+                android:width="2dp"
+                android:color="#000000" /> <!-- Màu viền đen -->
+            <corners android:radius="8dp" /> <!-- Độ cong của góc, điều chỉnh nếu cần -->
+        </shape>
+    </item>
+</selector>

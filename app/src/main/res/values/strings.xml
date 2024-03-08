@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Time management</string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="forward"><![CDATA[>]]></string>
+    <string name="welcome_text">WELCOME TO TOMELY</string>
+    <string name="welcome_text1">Solutions for a smart task management</string>
+    <string name="getstarted_signin">Sign In</string>
+    <string name="getstarted_signup">Sign Up</string>
+    <string name="welcome_text2">By continuing with the services above, you agree to Tomely Terms of Service and Privacy Policy</string>
+    <string name="txt_timer">Timer</string>
+    <string name="start_pomodoro">START POMODORO</string>
+    <string name="title_breaks">Number of breaks:</string>
+    <string name="title_time">Time (minute):</string>
+    <string name="title_dialog">Set Time</string>
+    <string name="action_start">START</string>
+    <string name="action_done">Done</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="channel_name_service">Chanel Service</string>
+    <string name="channel_description_service">This is channel service</string>
+
+</resources>
